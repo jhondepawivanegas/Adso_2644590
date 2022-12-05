@@ -1,0 +1,19 @@
+/* bebas-neue-regular - latin */
+body{
+    background-color: rgb(0, 0, 0);
+}
+.box{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-top:8%
+}
+
+
+.courier-font{
+    font-family: 'WaltographRegular';
+    font-weight: normal;
+    font-style: normal;
+    font-size: 200px;
+    color: rgb(26, 104, 221);
+}
